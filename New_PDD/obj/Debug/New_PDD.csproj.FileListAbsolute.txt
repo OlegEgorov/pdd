@@ -1,0 +1,15 @@
+D:\c#учеб\New_PDD\New_PDD\bin\Debug\New_PDD.exe.config
+D:\c#учеб\New_PDD\New_PDD\obj\Debug\New_PDD.csprojResolveAssemblyReference.cache
+D:\c#учеб\New_PDD\New_PDD\obj\Debug\New_PDD.Form1.resources
+D:\c#учеб\New_PDD\New_PDD\obj\Debug\New_PDD.Properties.Resources.resources
+D:\c#учеб\New_PDD\New_PDD\obj\Debug\New_PDD.csproj.GenerateResource.Cache
+D:\c#учеб\New_PDD\New_PDD\bin\Debug\New_PDD.exe
+D:\c#учеб\New_PDD\New_PDD\bin\Debug\New_PDD.pdb
+D:\c#учеб\New_PDD\New_PDD\bin\Debug\HtmlAgilityPack.dll
+D:\c#учеб\New_PDD\New_PDD\bin\Debug\HtmlAgilityPack.pdb
+D:\c#учеб\New_PDD\New_PDD\bin\Debug\HtmlAgilityPack.xml
+D:\c#учеб\New_PDD\New_PDD\obj\Debug\New_PDD.exe
+D:\c#учеб\New_PDD\New_PDD\obj\Debug\New_PDD.pdb
+D:\c#учеб\New_PDD\New_PDD\obj\Debug\New_PDD.Form2.resources
+D:\c#учеб\New_PDD\New_PDD\obj\Debug\New_PDD.Form3.resources
+D:\c#учеб\New_PDD\New_PDD\obj\Debug\New_PDD.Form4.resources
